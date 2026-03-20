@@ -33,11 +33,6 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarianaFelix1/MarianaFelix1/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarianaFelix1/MarianaFelix1/output/pacman-contribution-graph.svg">
