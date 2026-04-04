@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, me chamo Mariana Félix! Seja Bem-Vindo(a)! <br>💻 TI<br>🚀 Transformando ideias em sistemas<br>⚙️ Web • Automação • Tecnologia</p>
+<p align="left">Olá, me chamo Mariana Félix! Seja Bem-Vindo(a)! <br>💻 TI<br>🚀 Transformando ideias em sistemas<br>⚙️ Web • Automação • Tecnologia  •  Design  •  Marketing </p>
 
 ###
 
